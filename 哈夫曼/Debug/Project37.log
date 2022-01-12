@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\asus\Desktop\哈夫曼\源.cpp(30,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\asus\Desktop\哈夫曼\源.cpp(47,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\asus\Desktop\哈夫曼\源.cpp(59,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\asus\Desktop\哈夫曼\源.cpp(83,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\asus\Desktop\哈夫曼\源.cpp(164): warning C4715: “PrintQueNum”: 不是所有的控件路径都返回值
+  Project37.vcxproj -> C:\Users\asus\Desktop\哈夫曼\Debug\Project37.exe

@@ -1,0 +1,5 @@
+﻿  Queue.cpp
+  源.cpp
+C:\Users\asus\Desktop\DBFS\源.cpp(112,23): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  Project39.vcxproj -> C:\Users\asus\Desktop\DBFS\Debug\Project39.exe

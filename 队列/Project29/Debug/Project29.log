@@ -1,0 +1,6 @@
+﻿  Job.cpp
+  main.cpp
+C:\Users\asus\Desktop\队列\Project29\main.cpp(7,11): warning C4101: “P”: 未引用的局部变量
+  Queue.cpp
+  正在生成代码...
+  Project29.vcxproj -> C:\Users\asus\Desktop\队列\Debug\Project29.exe

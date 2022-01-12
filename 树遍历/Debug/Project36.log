@@ -1,0 +1,6 @@
+﻿  Stack.cpp
+  Tree.cpp
+  源.cpp
+C:\Users\asus\Desktop\树遍历\源.cpp(9,8): warning C4101: “S”: 未引用的局部变量
+  正在生成代码...
+  Project36.vcxproj -> C:\Users\asus\Desktop\树遍历\Debug\Project36.exe

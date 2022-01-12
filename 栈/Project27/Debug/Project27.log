@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\asus\Desktop\栈\Project27\main.cpp(8,17): warning C4101: “condition”: 未引用的局部变量
+  Stack.cpp
+  正在生成代码...
+  Project27.vcxproj -> C:\Users\asus\Desktop\栈\Debug\Project27.exe
